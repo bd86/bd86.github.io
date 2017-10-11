@@ -1,0 +1,5 @@
+gulpfile.js
+package.json
+yarn.lock
+/scss
+/node_modules
